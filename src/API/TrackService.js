@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const URL = 'http://localhost:5000/api/playlist';
+const URL = 'https://soundtrack-table.herokuapp.com/api/playlist';
 
 export default class TrackService {
     static async getAll(limit = 5, page = 1) {

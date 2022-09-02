@@ -64,6 +64,7 @@ const TrackForm = ({ create }) => {
                             { value: 'blues', name: 'Blues' },
                             { value: 'rap', name: 'Rap' },
                             { value: 'pop', name: 'Pop' },
+                            { value: 'classic', name: 'Classic' },
                         ]}
                     />
                 </label>
