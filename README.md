@@ -1,3 +1,7 @@
+- START
+  - npm init
+  - npm start
+
 - React App
 - Custom hooks
 - Pagination
